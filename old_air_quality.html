@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Air Quality Data</title>
+    <link rel="stylesheet" href="css/styles.css"> <!-- Link to external CSS file -->
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="road_info.html">Road Disruptions</a></li>
+            <li><a href="current_air_quality.html">Current Air Quality</a></li>
+            <li><a href="old_air_quality.html">Old Air Quality</a></li>
+            <li><a href="index.html">Tube Status</a></li>
+            <li><a href="index.html">Train Status</a></li>
+        </ul>
+    </nav>
+
+    <h1>Air Quality Data</h1>
+    
+    <!-- Dropdown for selecting sites -->
+    <label for="siteSelect">Select Site:</label>
+    <select id="siteSelect">
+        <option value="">Select a site</option>
+    </select>
+
+    <!-- Dropdown for selecting species descriptions -->
+    <label for="speciesSelect">Select Species Description:</label>
+    <select id="speciesSelect">
+        <option value="">Select a species description</option>
+    </select>
+
+    <!-- Table to display species descriptions data -->
+    <h2>Species Description Data</h2>
+    <table id="speciesTable">
+        <thead>
+            <tr>
+                <th>Year</th>
+                <th>Achieved</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data will be inserted here -->
+        </tbody>
+    </table>
+
+    <script src="js/old_air_script.js"></script> <!-- Link to external JS file -->
+</body>
+</html>

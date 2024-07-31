@@ -1,0 +1,678 @@
+{
+    "Barking and Dagenham - Rush Green": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Sulphur Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Bexley - Belvedere West": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Ozone",
+            "AirQualityBand": "Moderate"
+        }
+    ],
+    "Bexley - Slade Green FIDAS": [
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Bexley - Slade Green": [
+        {
+            "SpeciesDescription": "Sulphur Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Bexley - Belvedere": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Brent - Ikea": [
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Brent - Neasden Lane": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Brent - John Keble Primary School": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Brent - ARK Franklin Primary Academy": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Bromley - Harwood Avenue": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Croydon - Norbury": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Croydon - Purley Way A23": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Croydon - Norbury Manor": [
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Ealing - Hanger Lane Gyratory": [
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Ealing - Horn Lane": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Ealing - Western Avenue": [
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Ealing - Horn Lane TEOM": [
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Enfield - Bush Hill Park": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Enfield - Derby Road": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Enfield - Bowes Primary School": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Enfield - Prince of Wales School": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Greenwich - Falconwood FDMS": [
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Greenwich - Falconwood": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Ozone",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Greenwich - A206 Burrage Grove": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Greenwich - Plumstead High Street": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Ozone",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Greenwich - Fiveways Sidcup Rd A20": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Greenwich - Trafalgar Road (Hoskins St)": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Greenwich - John Harrison Way": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Greenwich - Blackheath": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Greenwich - Woolwich Flyover": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Greenwich - Westhorne Avenue": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Haringey - Haringey Town Hall": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Haringey  - Priory Park South": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Ozone",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Havering - Rainham": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Havering - Romford": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Islington - Holloway Road": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Islington - Arsenal": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Kensington and Chelsea - North Ken": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Ozone",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Sulphur Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Lambeth - Brixton Road": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Lambeth - Streatham Green": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Lewisham - Honor Oak Park": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Ozone",
+            "AirQualityBand": "Moderate"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Lewisham - New Cross": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Lewisham - Loampit Vale": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Lewisham - Deptford": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Lewisham -Laurence House Catford": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Merton - Merton Road": [
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Merton - Morden Civic Centre 2": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Newham - Hoola Tower": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Richmond Upon Thames - Castelnau": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Richmond Upon Thames - Barnes Wetlands": [
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Southwark - A2 Old Kent Road": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Southwark - Elephant and Castle": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Ozone",
+            "AirQualityBand": "Moderate"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Southwark - Tower Bridge Road": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Southwark - A2 Old Kent Road FIDAS": [
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Southwark - Lower Road": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Southwark - Vicarage Grove": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Southwark - South Circular Road": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Tower Hamlets - Jubilee Park ": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Tower Hamlets - Mile End Road": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Wandsworth - Putney High Street": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Wandsworth - Putney": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Wandsworth - Battersea": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Wandsworth - Tooting High Street": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Wandsworth - Lavender Hill (Clapham Jct)": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM10 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Westminster - Marylebone Road": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Ozone",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "Sulphur Dioxide",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Westminster - Covent Garden": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Westminster - Oxford Street": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ],
+    "Westminster - Elizabeth Bridge": [
+        {
+            "SpeciesDescription": "Nitrogen Dioxide",
+            "AirQualityBand": "Low"
+        },
+        {
+            "SpeciesDescription": "PM2.5 Particulate",
+            "AirQualityBand": "Low"
+        }
+    ]
+}
