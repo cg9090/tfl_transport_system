@@ -1,0 +1,294 @@
+[
+    {
+        "id": "00001.01445",
+        "location": "A10 Grt Cambridge Rd/A110 S' bury Rd"
+    },
+    {
+        "id": "00001.01685",
+        "location": "Hackney Rd/Camb Heath Rd"
+    },
+    {
+        "id": "00001.02500",
+        "location": "Victoria Embkmt/Temple Place"
+    },
+    {
+        "id": "00001.02425",
+        "location": "A12 Eastern Avenue/A125 North St"
+    },
+    {
+        "id": "00001.01252",
+        "location": "Curtain Rd / Old Street"
+    },
+    {
+        "id": "00001.01437",
+        "location": "Grt Cambridge Rd/A406 NCR R'about"
+    },
+    {
+        "id": "00001.01436",
+        "location": "Bowes Rd/Brownlow Rd"
+    },
+    {
+        "id": "00001.03590",
+        "location": "Kings X Rd / Wharton St"
+    },
+    {
+        "id": "00001.03591",
+        "location": "Kings X Rd / Swinton St"
+    },
+    {
+        "id": "00001.02002",
+        "location": "Lower Thames St/London Bridge"
+    },
+    {
+        "id": "00001.03721",
+        "location": "Court Rd/Sidcup Rd"
+    },
+    {
+        "id": "00001.03764",
+        "location": "A20 Sidcup Rd/Coyler Close"
+    },
+    {
+        "id": "00001.03766",
+        "location": "A20 Sidcup Bypass/Perry St"
+    },
+    {
+        "id": "00001.03752",
+        "location": "Catford One Way/Rushey Green"
+    },
+    {
+        "id": "00001.03902",
+        "location": "Thurlow Park Road/Croxted Road"
+    },
+    {
+        "id": "00001.04327",
+        "location": "Millbank/Vauxhall Bridge"
+    },
+    {
+        "id": "00001.04256",
+        "location": "Vauxhall Cross"
+    },
+    {
+        "id": "00001.06910",
+        "location": "A4 Great West Rd/A3063 Sutton Ln"
+    },
+    {
+        "id": "00001.06600",
+        "location": "Cromwell Rd/Earls Court Rd"
+    },
+    {
+        "id": "00001.06641",
+        "location": "Kensington High St/Church St"
+    },
+    {
+        "id": "00001.06610",
+        "location": "A4 Great W Rd/Macbeth St"
+    },
+    {
+        "id": "00001.06611",
+        "location": "A4 Great W Rd/Syon Ln"
+    },
+    {
+        "id": "00001.04570",
+        "location": "A23 Purley Cross/A23 Foxley Lane"
+    },
+    {
+        "id": "00001.06501",
+        "location": "Parliament Square"
+    },
+    {
+        "id": "00001.06502",
+        "location": "Trafalgar Square"
+    },
+    {
+        "id": "00001.06748",
+        "location": "A30 Great Sth/W Rd/The Parkway"
+    },
+    {
+        "id": "00001.06520",
+        "location": "Buck Palace Rd/Eccleston Bridge"
+    },
+    {
+        "id": "00001.06511",
+        "location": "Victoria St/Wilton Rd"
+    },
+    {
+        "id": "00001.06512",
+        "location": "Hobart Place/Grosvenor Place"
+    },
+    {
+        "id": "00001.06738",
+        "location": "A312 Hampton Rd York Way"
+    },
+    {
+        "id": "00001.04670",
+        "location": "Beverley Way/Coombe Lane Flyover"
+    },
+    {
+        "id": "00001.04690",
+        "location": "A3 Hook Rise/A243 Hook Rd"
+    },
+    {
+        "id": "00001.04600",
+        "location": "Kng William St/Arthur St"
+    },
+    {
+        "id": "00001.04622",
+        "location": "Clapham Common/Northside"
+    },
+    {
+        "id": "00001.04646",
+        "location": "A3 Roehampton Vale/A308 Robin Hood"
+    },
+    {
+        "id": "00001.04645",
+        "location": "West Hill/Sutherland Grove"
+    },
+    {
+        "id": "00001.04642",
+        "location": "A3 Tibett Crn/Withycombe Rd"
+    },
+    {
+        "id": "00001.04639",
+        "location": "A3 Kingston Bp/Burlington Rd"
+    },
+    {
+        "id": "00001.04638",
+        "location": "A3 Kingston Rd/Roehampton Ln"
+    },
+    {
+        "id": "00001.07460",
+        "location": "Albany St S of Robert St"
+    },
+    {
+        "id": "00001.07560",
+        "location": "Kentish Twn Rd/Hawley Rd"
+    },
+    {
+        "id": "00001.06948",
+        "location": "A4 Colnbrook/Stanwell Moor Rd"
+    },
+    {
+        "id": "00001.07551",
+        "location": "Cambridge Circus"
+    },
+    {
+        "id": "00001.06914",
+        "location": "A4 Bath Rd/Henleys R'about"
+    },
+    {
+        "id": "00001.09731",
+        "location": "A1 Barnet Wy/Barnet Ln"
+    },
+    {
+        "id": "00001.09730",
+        "location": "A1 Barnet Wy/A41 Edgware Wy"
+    },
+    {
+        "id": "00001.09732",
+        "location": "A1 Archway Rd/Bakers Ln"
+    },
+    {
+        "id": "00001.09742",
+        "location": "Watford Way/Great North Way"
+    },
+    {
+        "id": "00001.09744",
+        "location": "A1 Watford Way/The Broadway"
+    },
+    {
+        "id": "00001.08750",
+        "location": "Hyde Park Corner/Park Lane"
+    },
+    {
+        "id": "00001.07369",
+        "location": "Baker St/Marylebone Rd"
+    },
+    {
+        "id": "00001.07356",
+        "location": "Euston Rd/Grays Inn Rd"
+    },
+    {
+        "id": "00001.07316",
+        "location": "High Rd/Ealing Road"
+    },
+    {
+        "id": "00001.07317",
+        "location": "A40/Hanger Lane Tunnel"
+    },
+    {
+        "id": "00001.07380",
+        "location": "Prince Albert Rd/Parkway"
+    },
+    {
+        "id": "00001.08003",
+        "location": "A4088 Forty Av/Bridge Rd"
+    },
+    {
+        "id": "00001.08005",
+        "location": "Grt Central Way/Drury Way"
+    },
+    {
+        "id": "00001.08006",
+        "location": "Neasden Ln North/A406"
+    },
+    {
+        "id": "00001.08007",
+        "location": "Forty Lane/Blackbird Hill"
+    },
+    {
+        "id": "00001.08850",
+        "location": "Marble Arch"
+    },
+    {
+        "id": "00001.08100",
+        "location": "A118 Romford Rd/A406 Ncr"
+    },
+    {
+        "id": "00001.08925",
+        "location": "Park Rd / Gloucester Pl"
+    },
+    {
+        "id": "00001.08926",
+        "location": "Wellington Rd/St Johns Wd Rd"
+    },
+    {
+        "id": "00001.07929",
+        "location": "A41 Hendon Way/Cricklewood Lane"
+    },
+    {
+        "id": "00001.07927",
+        "location": "A5 Cricklewood Broadway"
+    },
+    {
+        "id": "00001.07925",
+        "location": "A5 Kilburn High Rd/Willesden Ln"
+    },
+    {
+        "id": "00001.08303",
+        "location": "A12 Eastern Av/Whalebone Ln"
+    },
+    {
+        "id": "00001.09096",
+        "location": "Pier Road/Woolwich Ferry"
+    },
+    {
+        "id": "00001.09080",
+        "location": "Sterling Way Slip/A1010 Fore St"
+    },
+    {
+        "id": "00001.09055",
+        "location": "John Wilson St/New Ferry Approach"
+    },
+    {
+        "id": "00001.09053",
+        "location": "A406/Golders Grn Rd"
+    },
+    {
+        "id": "00001.09057",
+        "location": "A406 Pinkham Way/Colney Hatch Ln"
+    },
+    {
+        "id": "00001.09078",
+        "location": "Sterling Way Slip/Victoria St"
+    }
+]
