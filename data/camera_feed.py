@@ -20,7 +20,7 @@ def extract_camera_data(xml_file, output_json_file):
         json.dump(cameras, json_file, indent=4)
 
 # Specify the input XML file and the output JSON file
-input_xml_file = 'camera-list.xml'  # Replace with your actual XML file path
+input_xml_file = 'camera-list.xml'
 output_json_file = 'cameras.json'
 
 # Extract camera data and save to JSON
